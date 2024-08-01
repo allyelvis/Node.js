@@ -1,0 +1,6 @@
+temperature,humidity,pressure,hazard_level
+30,50,1000,0
+85,15,980,1
+45,65,1020,0
+95,10,970,1
+60,40,990,0
